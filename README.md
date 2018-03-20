@@ -1,7 +1,7 @@
 # Calibre
 Calibre is a web application that allows users to search, play, and save music and videos to a playlist.
 
-[Click here to view the frontend of Calibre](https://github.com/MarvinClerge/Calibre-Frontend)
+[Click here to view the frontend of Calibre](https://github.com/MarvinClerge/Calibre)
 
 ## Motivation
 The goal behind this application was to refine my web development skills in the following areas:
